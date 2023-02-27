@@ -4,6 +4,8 @@ Welcome to my GitHub, I started this journey as a backend web developer with a g
 
 Recently while attending Grad school, I've been exploring the field of machine learning through various projects, and I'm loving every bits of the challenge of learning something new.
 
+---
+
 ![](https://raw.githubusercontent.com/nvd-dev/personal-github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/nvd-dev/personal-github-statistics/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/nvd-dev/personal-github-statistics/master/generated/languages.svg#gh-dark-mode-only)
